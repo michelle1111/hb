@@ -1,0 +1,74 @@
+*{margin: 0;padding: 0;}
+body{font-size: 62.5%;font-family: "Comic Sans MS";background-color: #eee;}
+.container{
+	overflow: hidden;
+	width: 95em;
+	margin: 0 auto;
+}
+.home{
+	background-image: url(img/bg-one.png);
+	text-align: center;
+	padding-bottom: 3em;
+}
+.logo-color{
+	position: absolute;
+    top: 4em;
+    left: 41em;
+    height: 24em;
+    width: auto;
+}
+.logo{
+	width: 67em;
+}
+.title{
+	font-size: 2.6em;
+}
+.intro{
+	font-size: 1.8em;
+	margin-top: .5em;
+}
+
+.memb{
+	text-align: center;
+	padding-bottom: 10em;
+	background-size:cover;
+	background-repeat:no-repeat;
+}
+.memb-1{
+	background-image: url(img/bg-two.png);
+}
+.memb-2{
+	background-image: url(img/bg-three.png);
+}
+.memb-3{
+	background-image: url(img/bg-four.png);
+}
+.memb-4{
+	background-image: url(img/bg-five.png);
+}
+.memb-5{
+	background-image: url(img/bg-six.png);
+}
+
+.memb-logo{
+	height: 17em;
+	float: left;
+}
+.logo-all{
+	height: 8em;
+	float: right;
+}
+.memb-hobby{
+	width: 40em;
+	height: 24.9em;
+    margin-top: 10em;
+    margin-left: -7em;
+
+}
+footer{
+	text-align: center;
+	height: 12em;
+	line-height: 12em;
+}
+
+
